@@ -15,4 +15,4 @@ A Python tool designed for teachers to manage student data, generate performance
 Clone the repository and install necessary dependencies:
 
 ```bash
-main.py
+classroom_data_manager.py
